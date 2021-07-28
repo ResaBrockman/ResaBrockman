@@ -1,7 +1,11 @@
 
-  <H2 align="center">
-   Hi, I'm Resa!
-  </H2>
+  <p align="center">
+  <b>
+   <font size="100">
+      Hi, I'm Resa!
+   </font>
+  </b>
+  </p>
  
  <p align="center">
   <a href="https://www.linkedin.com/in/resabrockman/">I'm also on LinkedIn.</a>
