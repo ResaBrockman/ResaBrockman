@@ -1,15 +1,11 @@
 
-  <p align="center">
-  <b>
-   <font size="100">
-      Hi, I'm Resa!
-   </font>
-  </b>
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ResaBrockman/ResaBrockman/main/Hi%20I'm%20Resa.png">
+</p>
  
- <p align="center">
-  <a href="https://www.linkedin.com/in/resabrockman/">I'm also on LinkedIn.</a>
- </p>
+<p align="center">
+ <a href="https://www.linkedin.com/in/resabrockman/">I'm also on LinkedIn.</a>
+</p>
  
 <p align="center">
   <img src="https://media.giphy.com/media/VeBeB9rR524RW/giphy.gif"/>
