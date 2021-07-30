@@ -19,6 +19,7 @@
   <b>
     Thanks for stopping by!
   </b>
+  :vulcan_salute:
 </p>
 
 
