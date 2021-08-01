@@ -12,7 +12,9 @@
 <p align="justify">
 <br />
 <br />
-  I'm a payroll analyst with a degree in computer science and statistics. This GitHub is currently being updated with some of my professional projects and some exploratory           projects I'm doing to showcase some of my skills including SQL and Python. I hope you'll take a look around.
+  <b>
+    I'm a payroll analyst with a degree in computer science and statistics. This GitHub is currently being updated with some of my professional projects and some exploratory           projects I'm doing to showcase some of my skills including SQL and Python. I hope you'll take a look around.
+  </b>
 </p>
 
 <p align="center">
