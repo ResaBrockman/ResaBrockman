@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ResaBrockman/ResaBrockman/main/Hi.png">
   <br />
-  <a href="https://www.linkedin.com/in/resabrockman/">I'm also on LinkedIn.</a>
+  <a href="https://www.linkedin.com/in/resabrockman/">I'm also on LinkedIn</a>
 </p>
 
 <p align="center">
